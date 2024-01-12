@@ -114,3 +114,5 @@ UpgradeLog*.XML
 *.userprefs
 
 /LyricsReloaded/MusicBeeInterfaceOLD.cs
+
+.fake
